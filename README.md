@@ -1,1 +1,1 @@
-# Eloquent JavaScript THIRD EDITION resolved exercises
+# Eloquent JavaScript THIRD EDITION solved exercises
